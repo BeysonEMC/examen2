@@ -1,0 +1,6 @@
+{
+  "appTitle": "flutter_ticket_avion",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
